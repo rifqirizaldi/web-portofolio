@@ -324,7 +324,7 @@ form .btn-right{
 }
 
 /* --------------CSS for small screen------------ */
-/* nav .fa{
+nav .fa{
     display: none;
 }
 
@@ -396,7 +396,7 @@ form .btn-right{
     .copyright{
         font-size: 14px;
     }
-} */
+}
 #msg{
     color: #616161;
     margin-top: -40px;
